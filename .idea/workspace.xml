@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8dfebcc-439f-4146-b67b-4c3ba925b6eb" name="Default Changelist" comment="增加 B类">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c8dfebcc-439f-4146-b67b-4c3ba925b6eb" name="Default Changelist" comment="1111" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,21 +73,7 @@
       <option name="project" value="LOCAL" />
       <updated>1627461794499</updated>
     </task>
-    <task id="LOCAL-00002" summary="增加A类">
-      <created>1627462192124</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1627462192124</updated>
-    </task>
-    <task id="LOCAL-00003" summary="增加 B类">
-      <created>1627462254183</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1627462254183</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,9 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1111" />
-    <MESSAGE value="增加A类" />
-    <MESSAGE value="增加 B类" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加 B类" />
+    <option name="LAST_COMMIT_MESSAGE" value="1111" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
