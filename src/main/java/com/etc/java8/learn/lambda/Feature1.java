@@ -7,5 +7,4 @@ package com.etc.java8.learn.lambda;
 public class Feature1 {
 
   private String sid;
-
 }
